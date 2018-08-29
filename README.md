@@ -3,3 +3,9 @@ The AI model can detect the Indian roads lanes at night time and also approximat
 
 Change the path to the image file inside the code and simply run:
 `python motor_lane.py`
+
+## Lane width measurement
+![Lane width](GammaCorrection/outputs/laneWidth.jpg?raw=true "LaneWidth")
+
+## Gamma Correction
+![Gamma](GammaCorrection/outputs/gamma.jpg?raw=true "Gamma")
